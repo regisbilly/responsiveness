@@ -1,0 +1,38 @@
+
+
+
+/* @media (max-width:1000px) {
+    body{
+        color: blue;
+        background-color: black;
+    }
+} */
+#p{
+    background-color: blue;
+    width: 50%;
+    margin: 0 auto;
+    
+}
+#r{
+    background-color: brown;
+    width: 50%;
+    margin: 0 auto;
+}
+#a{
+    background-color: aqua;
+    width: 50%;
+    margin: 0 auto;
+    
+}
+#q{
+    background-color: chartreuse;
+    width: 50%;
+    margin: 0 auto;
+}
+@media (max-width:320px) {
+    #p{
+        font-size: 0.3rem;
+    }
+}
+
+
